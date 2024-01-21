@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PPtrans": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Edsim++\\Presentations\\2024\\#Training\\BatchSim\\BatchSim.pptx nl"
+    }
+  }
+}
